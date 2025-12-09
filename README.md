@@ -33,7 +33,6 @@ Skilled in **SQL, Python, Power BI, Excel, Tableau**, and analytical problem-sol
 **LinkedIn:** your link here  
 **Email:** your email here  
 
-<!--
 **Deepak6438/Deepak6438** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
