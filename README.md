@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Data Analyst | Business Analyst | Finance & Analytics Enthusiast
+### Data Analyst | Business Analyst | Reporting Analyst
 
 I’m passionate about transforming raw data into actionable insights.  
 Skilled in **SQL, Python, Power BI, Excel, Tableau**, and analytical problem-solving.
