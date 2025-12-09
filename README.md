@@ -21,14 +21,6 @@ Skilled in **SQL, Python, Power BI, Excel, Tableau**, and analytical problem-sol
 
 ---
 
-## 🚀 Projects
-- Loan Approval Risk Prediction  
-- FMCG Supply Chain Optimization  
-- Goodcabs Performance Analytics  
-- 10 Ad-hoc SQL Insights Project  
-
----
-
 ## 📬 Connect With Me
 **LinkedIn:** your link here  
 **Email:** your email here  
